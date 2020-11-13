@@ -1,29 +1,14 @@
-# README #
+# Prosty i bezpieczny formularz logowania w PHP
 
-This README would normally document whatever steps are necessary to get your application up and running.
+### Gdzie znajdę tutorial? ###
 
-### What is this repository for? ###
+* Na stronie kursphp.com: [System logowania PHP](https://kursphp.com/system-logowania-php/)
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+### Jak uruchomić kod? ###
 
-### How do I get set up? ###
+* Po pobraniu kodu wpisz polecenie: php -S 127.0.0.1:8003
+* Odwiedź adres 127.0.0.1:8003 w Twojej przeglądarce
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+### Jeśli wciąż mam pytania? ###
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* Wejdź na https://kursphp.com/pytania i dodaj swoje pytanie
